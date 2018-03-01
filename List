@@ -1,0 +1,7 @@
+Command list for ALPHA 1.0
+help - Shows where to get the command list.
+text - Create a text for print command.
+print - Uses text to print something (the text of command Text).
+currentusername - Shows username.
+username - Choose username.
+version - Shows version that you are using.
